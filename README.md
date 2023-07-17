@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MohoSami
-- 👀 I’m interested in BUYING A DUOLINGO DUO COSTUME
-- 📫 How to reach me @MohoSami on twitter
+Hi
 
 <!---
 MohoSami/MohoSami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
